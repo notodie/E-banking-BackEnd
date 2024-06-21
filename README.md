@@ -2,7 +2,7 @@
 
 Compte Rendu
 
-![IMG-20240621-WA0046](https://github.com/notodie/E-banking-BackEnd/assets/83617004/03c49312-b799-4712-b786-cbe6302f53f1)
+![image](https://github.com/notodie/E-banking-BackEnd/assets/83617004/0dd16539-2b61-4954-9108-487bf0a6c5a5)
 
 # DTO:
 
